@@ -1,0 +1,16 @@
+{
+  "name": "foco-sound-toggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clap-trigger": "^2.2.0",
+    "magic-home": "^2.6.1"
+  }
+}
